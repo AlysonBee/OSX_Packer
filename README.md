@@ -51,4 +51,4 @@ You can easily recompile it yourself with
 gcc -o patcher patcher.c
 ```
 
-##### Brutally hacked together by me.
+##### Brutally hacked together by AlysonBee.
